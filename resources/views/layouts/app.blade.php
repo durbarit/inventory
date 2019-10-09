@@ -328,6 +328,17 @@
                               <li><a href="{{url('/list/employee')}}">All Employee</a></li>
                             </ul>
                       </li>
+                      <li class="single-nav-wrapper">
+                          <a class="has-arrow menu-item" href="#" aria-expanded="false">
+                            <span class="left-icon"><i class="fas fa-table"></i></span>
+                              <span class="menu-text">Settings</span>
+                          </a>
+                            <ul class="dashboard-menu">
+                              
+                              <li><a href="#">Vat Setting</a></li>
+                              <li><a href="#">Shop Setting</a></li>
+                            </ul>
+                      </li>
                     {{--   <li class="single-nav-wrapper">
                           <a class="has-arrow menu-item" href="#" aria-expanded="false">
                             <span class="left-icon"><i class="fas fa-chart-line"></i></span>
